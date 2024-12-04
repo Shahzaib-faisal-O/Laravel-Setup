@@ -58,7 +58,7 @@ Follow these steps to create a new Laravel project:
    - If you encounter any session-related issues, ensure the database is correctly configured in the `.env` file.
 
 6.  **Import your packages and create the vendor folder, along with the autoload script**
-
+   - Intsall necessary packages
         ```bash
         composer install
         ```
